@@ -1,3 +1,4 @@
+/* eslint no-use-before-define: 0 */
 import { useState, useEffect } from 'react'
 import { useRouter } from 'next/router'
 import ReactMarkdown from 'react-markdown'

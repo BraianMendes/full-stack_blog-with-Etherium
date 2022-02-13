@@ -1,3 +1,5 @@
+/* eslint no-use-before-define: 0 */
+
 /* pages/create-post.js */
 import { useState, useRef, useEffect } from "react"; // new
 import { useRouter } from "next/router";
