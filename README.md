@@ -33,3 +33,7 @@ npx hardhat run scripts/deploy.js --network localhost
 ```sh
 npm start
 ```
+
+
+### BRAIAN REMEBER:
+Update Github URL on thegraph.com
